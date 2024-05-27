@@ -24,7 +24,7 @@ To run this project, you will need:
 Clone the project repository from GitHub to your local machine:
 
 In cmd or powershell:
-git clone https://github.com/yourusername/library-index.git
+git clone https://github.com/kuriakosant/PHP-Library-Index-App
 
 ### XAMPP Setup 
 
